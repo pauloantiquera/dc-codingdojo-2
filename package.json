@@ -1,0 +1,17 @@
+{
+  "name": "dc-codingdojo-2",
+  "version": "1.0.0",
+  "description": "Coding challenges for DC Conding Doje #2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node **/test/* --autotest --watch **/* --color --verbose --growl"
+  },
+  "keywords": [
+    "CodingDojo",
+    "NodeJS",
+    "Datacoper",
+    "MID"
+  ],
+  "author": "Datacoper-fellowship of the code",
+  "license": "UNLICENSED"
+}
