@@ -1,6 +1,6 @@
 'use strict'
 
-xdescribe('LeapYear Unit Test Suit - isLeapYear()', function() {
+describe('LeapYear Unit Test Suit - isLeapYear()', function() {
     const isLeapYear = require('../leapYear');
 
     it('should be true when year is divisble by 4', function() {
